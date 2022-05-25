@@ -1,5 +1,10 @@
-# itIsNotTrue
+# itIsNotTrue2D
+
 A game take rank #344 at Brackeys game jam 2022
+
+## Use unity game engine to make.
+* depend on some package like 2dExtra, ruleTile and more
+* Role: Coder
 
 you can play it right here
 
